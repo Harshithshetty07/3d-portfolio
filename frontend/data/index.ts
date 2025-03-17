@@ -16,6 +16,8 @@ export const navItems = [
       img: "/b1.svg",
       spareImg: "",
     },
+
+    
     {
       id: 2,
       title: "I'm very flexible with time zone communications",
